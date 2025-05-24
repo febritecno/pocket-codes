@@ -1,6 +1,6 @@
 # Script Codes
 
-Welcome to `Script Codes`! This repository is a collection of useful commands for quick reference.
+This repository is a collection of useful commands for quick reference.
 
 ## Available Shorthand Codes
 ---
