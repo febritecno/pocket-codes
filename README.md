@@ -1,4 +1,4 @@
-# 🚀 Small Codes
+# 🚀 Scripts
 
 Collection of handy commands and snippets designed for quick access and maximum productivity. Save time, avoid repetition, and supercharge your terminal workflow!
 
