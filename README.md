@@ -8,7 +8,7 @@ Here's a list of the currently available code snippets:
 
 * ### **MR**
     * **Description:**  Make merge requests or pull requests instant via Terminal.
-    * [ Read ](./mr)
+    * [ Install Now ](./mr)
 
 ---
 
