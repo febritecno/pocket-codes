@@ -1,6 +1,6 @@
 # Pocket Codes
 
-Welcome to `pocket-codes`! This repository is a collection of shorthand code snippets and useful commands for quick reference.
+Welcome to `pocket-codes`! This repository is a collection of useful commands for quick reference.
 
 ## Available Shorthand Codes
 ---
