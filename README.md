@@ -1,20 +1,20 @@
-# Pocket Codes
+# Script Codes
 
-Welcome to `pocket-codes`! This repository is a collection of useful commands for quick reference.
+Welcome to `Script Codes`! This repository is a collection of useful commands for quick reference.
 
 ## Available Shorthand Codes
 ---
 Here's a list of the currently available code snippets:
 
-* ### **mr**
-    * **Description:**  It's also a small tool designed to assist in creating merge requests or pull requests.
-    * [Go to `/mr`](./mr)
+* ### **MR**
+    * **Description:**  Make merge requests or pull requests instant via Terminal.
+    * [ Read ](./mr)
 
 ---
 
 ## How to Use
 ---
-Each shorthand code is organized in its own directory. Navigate into the respective directory to find the code snippets and usage instructions.
+Each shorthand code is organized in its own directory. Navigate into the respective directory to find usage instructions.
 
 ---
 
